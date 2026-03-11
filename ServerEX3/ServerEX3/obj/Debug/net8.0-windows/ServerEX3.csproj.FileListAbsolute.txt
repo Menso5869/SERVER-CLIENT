@@ -1,0 +1,16 @@
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\bin\Debug\net8.0-windows\ServerEX3.exe
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\bin\Debug\net8.0-windows\ServerEX3.deps.json
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\bin\Debug\net8.0-windows\ServerEX3.runtimeconfig.json
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\bin\Debug\net8.0-windows\ServerEX3.dll
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\bin\Debug\net8.0-windows\ServerEX3.pdb
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.Form1.resources
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.csproj.GenerateResource.cache
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.AssemblyInfoInputs.cache
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.AssemblyInfo.cs
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.dll
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\refint\ServerEX3.dll
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.pdb
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ServerEX3.genruntimeconfig.cache
+C:\Users\PABLO\source\repos\ServerEX3\ServerEX3\obj\Debug\net8.0-windows\ref\ServerEX3.dll
